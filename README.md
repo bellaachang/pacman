@@ -1,4 +1,4 @@
-# Pacman Project
+# Solving Pacman with AI
 
 PAC-Man built with Python 2.7 and strong AI algorithms, including reinforcement learning, forward and backward propagation, minimax and etc. using Linux/Ubuntu 18.04. Projects for Berkeley's course CS 188: Introduction to Artificial Intelligence (FA '22).
 Class website can be found [here.](https://inst.eecs.berkeley.edu/~cs188/fa22/)
