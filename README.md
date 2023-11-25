@@ -1,4 +1,4 @@
-# Solving Pacman with AI
+# Pacman Solver
 
 PAC-Man built with Python 2.7 and strong AI algorithms, including reinforcement learning, forward and backward propagation, minimax and etc. using Linux/Ubuntu 18.04. Projects for Berkeley's course CS 188: Introduction to Artificial Intelligence (FA '22).
 Class website can be found [here.](https://inst.eecs.berkeley.edu/~cs188/fa22/)
@@ -18,8 +18,4 @@ In this project, I implemented value iteration and Q-learning. I tested my agent
 ## tracking
 
 In this project, I designed Pacman agents that use sensors to locate and eat invisible ghosts. I advanced from locating single, stationary ghosts to hunting packs of multiple moving ghosts with ruthless efficiency.
-
-## machinelearning
-
-In this project, I built a neural network to classify digits, and more!
 
